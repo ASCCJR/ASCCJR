@@ -1,6 +1,6 @@
 ### Hi there, I'm Antonio! 
-Data Science | I.A | Sistemas Embarcados
-- C para microcontroladores <img align="right" src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif" width="450">
+Data Science | I.A | Sistemas Embarcados <img align="right" src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif" width="450">
+- C para microcontroladores 
 - Raspberry Pi Pico W
 - Protocolos de comunicação: MQTT, I2C, SPI, UART
 - Data Science com Python, Pandas, NumPy, Scikit-learn
