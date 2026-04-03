@@ -17,8 +17,6 @@
 
 <!-- Sobre -->
 > 🎓 Graduando em Análise e Desenvolvimento de Sistemas (FGV) com foco em dados e IA.  
-> 🚀 Construo soluções de dados ponta a ponta — de pipelines de ingestão a modelos preditivos e dashboards interativos.
-
 ---
  
 ### 📌 Projetos
