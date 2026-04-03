@@ -25,6 +25,7 @@
 |---|---|---|
 | [LH Nautical — Data Pipeline](https://github.com/ASCCJR/Indicium_LH_Nautical) | Databricks, PySpark, Delta Lake, Streamlit | Pipeline medallion (Bronze→Silver→Gold) com integração da API do Banco Central. Revelou margem de -5,3% sobre R$2,6B de receita |
 | [One Bank — Churn Prediction](https://github.com/ASCCJR/One-Bank-Churn-Prediction) | scikit-learn, XGBoost, SHAP, SMOTE | Comparação de 3 modelos via cross-validation, threshold tuning e simulação de ROI (+R$655k) |
+| [Online Retail Analytics](https://github.com/ASCCJR/Online_Retail_EDA) | Python, Pandas, Seaborn, Statsmodels | EDA orientada a negócios com Segmentação RFM e análise de sazonalidade. Descobriu anomalias financeiras de -£245k e evidenciou a regra 70/30 na receita |
  
 ### 📫 Contato
 [LinkedIn](https://linkedin.com/in/asccjr) · antoniosergiok@gmail.com
