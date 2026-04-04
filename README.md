@@ -28,16 +28,5 @@
 
 ---
 
-### 🛠️ Habilidades e Conhecimentos
-
-* **Machine Learning & Dados:** Classificação, regressão, séries temporais e sistemas de recomendação. Experiência com Scikit-learn, XGBoost, Prophet, SHAP e SMOTE.
-* **Engenharia de Dados:** Processos de ETL, PySpark, bancos relacionais (SQL/PostgreSQL) e ecossistema Databricks (Delta Lake, Unity Catalog, CLI).
-* **Inteligência Artificial (GenAI):** Integração com APIs (Gemini, Claude), Engenharia de Prompts e Prompt Chaining.
-* **BI & Visualização:** Power BI (DAX, Power Query), Streamlit, bibliotecas Python (Matplotlib, Seaborn) e Excel avançado.
-* **Ferramentas & Ambiente:** Git/GitHub, ambientes de desenvolvimento (Jupyter, VS Code, Google Colab) e Linux.
-* **Idiomas:** Inglês intermediário/avançado (foco em leitura e escrita técnica).
-
----
-
 ### 📫 Contato
 [LinkedIn](https://linkedin.com/in/asccjr) · antoniosergiok@gmail.com
