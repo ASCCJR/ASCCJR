@@ -21,7 +21,7 @@
 ### 📌 Projetos
 | Projeto | Stack | Destaque |
 |---|---|---|
-| [LH Nautical — Data Pipeline](https://github.com/ASCCJR/Indicium_LH_Nautical) | Databricks, PySpark, Delta Lake, Streamlit | Pipeline medallion (Bronze→Silver→Gold) com integração da API do Banco Central. Revelou margem de -5,3% sobre R$2,6B de receita |
+| [LH Nautical — Data Pipeline](https://github.com/ASCCJR/Indicium_LH_Nautical) | Databricks, PySpark, Delta Lake, Streamlit | Pipeline medallion (Bronze→Silver→Gold) com integração da API do Banco Central. Revelou margem de -5,3% sobre R$2,6B de receita [Dashboard](https://lh-nautical-dashboard.streamlit.app/) |
 | [One Bank — Churn Prediction](https://github.com/ASCCJR/One-Bank-Churn-Prediction) | Scikit-learn, XGBoost, SHAP, SMOTE | Comparação de 3 modelos via cross-validation, threshold tuning e simulação de ROI (+R$655k) |
 | [Online Retail Analytics](https://github.com/ASCCJR/Online_Retail_EDA) | Python, Pandas, Seaborn, Statsmodels | EDA orientada a negócios com Segmentação RFM e análise de sazonalidade. Descobriu anomalias financeiras de -£245k e evidenciou a regra 70/30 na receita |
 | [Chatbot NLP — E-commerce](https://github.com/ASCCJR/Chatbot_NLP) | NLTK, scikit-learn, BERT, Gradio | Pipeline NLP clássico: classificação de intenções, NER com validação, busca FAQ multi-nível e análise de sentimento. [Demo ao vivo](https://huggingface.co/spaces/asccjr/Chatbot_NLP) |
