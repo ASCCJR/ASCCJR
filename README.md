@@ -30,4 +30,4 @@
 ---
 
 ### 📫 Contato
-[LinkedIn](https://linkedin.com/in/asccjr) · antoniosergiok@gmail.com
+[LinkedIn](https://linkedin.com/in/asccjr) · antoniosergiok@gmail.com · [Telegram](https://t.me/antonio_sergio)
