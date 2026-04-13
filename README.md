@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Antonio! 👋</h1>
-  <h3>Data Science & Analytics | IoT Systems</h3>
+  <h3>Data Science & Analytics
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
