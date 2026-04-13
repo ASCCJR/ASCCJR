@@ -18,7 +18,7 @@
 ---
 
 ### 📌 Data Science & Analytics
-| Nome | Stack | Destaque |
+| Nome | Stack | Descrição |
 |---|---|---|
 | [LH Nautical — Data Pipeline](https://github.com/ASCCJR/Indicium_LH_Nautical) | Databricks, PySpark, Delta Lake, Streamlit | Pipeline medallion (Bronze→Silver→Gold) com integração da API do Banco Central. Revelou margem de -5,3% sobre R$2,6B de receita. [Link Dashboard](https://lh-nautical-dashboard.streamlit.app/) |
 | [One Bank — Churn Prediction](https://github.com/ASCCJR/One-Bank-Churn-Prediction) | Scikit-learn, XGBoost, SHAP, SMOTE | Comparação de 3 modelos via cross-validation, threshold tuning e simulação de ROI (+R$655k) |
@@ -28,7 +28,7 @@
 ---
 
 ### 🔧 Embedded Systems & IoT
-| Nome | Stack | Destaque |
+| Nome | Stack | Descrição |
 |---|---|---|
 | [Fechadura 2FA](https://github.com/ASCCJR/Projeto-1-Fechadura-2FA) | C, Raspberry Pi Pico W, MQTT, Node-RED | Autenticação duplo fator (sensor de cor + senha), controle dual-core, dashboard IoT em tempo real |
 | [Caixa de Amostras](https://github.com/ASCCJR/Projeto-2-Caixa-Amostras) | C, Raspberry Pi Pico W, AHT10, MQTT | Evolução do Projeto 1: 2FA + monitoramento de temperatura/umidade com alarmes automáticos |
