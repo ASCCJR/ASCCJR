@@ -13,7 +13,7 @@
   </p>
 </div>
 
-> 🎓 Graduando em Análise e Desenvolvimento de Sistemas (FGV) com foco em dados e IA.  
+> Análise e Desenvolvimento de Sistemas (FGV) com foco em dados e IA.  
 
 ---
 
