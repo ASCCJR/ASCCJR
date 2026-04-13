@@ -22,7 +22,7 @@
 
 ---
 
-### 📌 Projetos — Data Science & Analytics
+### 📌 Data Science & Analytics
 | Projeto | Stack | Destaque |
 |---|---|---|
 | [LH Nautical — Data Pipeline](https://github.com/ASCCJR/Indicium_LH_Nautical) | Databricks, PySpark, Delta Lake, Streamlit | Pipeline medallion (Bronze→Silver→Gold) com integração da API do Banco Central. Revelou margem de -5,3% sobre R$2,6B de receita. [Link Dashboard](https://lh-nautical-dashboard.streamlit.app/) |
@@ -32,7 +32,7 @@
 
 ---
 
-### 🔧 Projetos — Embedded Systems & IoT
+### 🔧 Embedded Systems & IoT
 | Projeto | Stack | Destaque |
 |---|---|---|
 | [Fechadura 2FA](https://github.com/ASCCJR/Projeto-1-Fechadura-2FA) | C, Raspberry Pi Pico W, MQTT, Node-RED | Autenticação duplo fator (sensor de cor + senha), controle dual-core, dashboard IoT em tempo real |
