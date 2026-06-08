@@ -34,7 +34,3 @@
 | [Estufa Inteligente](https://github.com/ASCCJR/Projeto-3-Estufa) | C, Raspberry Pi Pico W, AHT10, BH1750, MQTT | Monitoramento ambiental (temp, umidade, luz) com irrigação manual via servo e alertas remotos |
 
 ---
-
-### 📫 Contato
-
-[LinkedIn](https://linkedin.com/in/asccjr) · antoniosergiok@gmail.com
