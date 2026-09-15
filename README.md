@@ -1,11 +1,5 @@
 <div align="center">
-  <!-- ⭐ Currículo em destaque (botão grande, sozinho) -->
-  <p>
-    <a href="https://asccjr.github.io/">
-      <img src="https://img.shields.io/badge/%F0%9F%93%84%20Acesse%20meu%20Curr%C3%ADculo%20Online-2C3E50?style=for-the-badge" height="36" alt="Currículo Online"/>
-    </a>
-  </p>
-
+  
   <!-- redes, menores e discretas -->
   <p>
     <a href="https://linkedin.com/in/asccjr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
