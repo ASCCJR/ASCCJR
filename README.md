@@ -28,7 +28,7 @@
 
 | Projeto | Stack | Entrega |
 |---|---|---|
-| [LH Nautical](https://github.com/ASCCJR/Indicium_LH_Nautical) | Databricks, PySpark, Delta Lake, Streamlit, API do Banco Central | Pipeline Bronze, Silver e Gold que integra vendas e câmbio PTAX. No cenário do desafio técnico da Indicium, o cálculo com câmbio histórico revelou margem de −5,3%. |
+| [LH Nautical](https://github.com/ASCCJR/Indicium_LH_Nautical) | Databricks, PySpark, Delta Lake, Streamlit, API do Banco Central | Teste técnico que levou à aprovação na turma 2026.5 do programa de trainee Lighthouse da Indicium. O pipeline Bronze, Silver e Gold integrou vendas e câmbio PTAX e revelou margem de −5,3% no cenário do desafio. |
 
 ## Data Science
 
