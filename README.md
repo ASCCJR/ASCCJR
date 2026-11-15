@@ -13,16 +13,16 @@
 
 | Projeto | Stack | Entrega |
 |---|---|---|
-| [Copiloto de Entregas](https://portfolio-antonio-sergio.vercel.app/copiloto) | Next.js, TypeScript, OpenAI API, Vercel | Painel de pontualidade com dados da Olist. O chat usa os filtros do painel e abre os pedidos que sustentam a resposta. |
-| [Monitor de Vagas](https://asccjr.github.io/portfolio/monitor-de-vagas/) | Make, Greenhouse API, IA generativa | Triagem automática de vagas públicas e resumo por e-mail. Separei o texto de cada trilha para evitar a mistura de requisitos e validei a extração em três anúncios reais. |
+| **Copiloto de Entregas**<br>[Demo na Vercel](https://portfolio-antonio-sergio.vercel.app/copiloto) · [Código no GitHub](https://github.com/ASCCJR/copiloto-de-entregas) | Next.js, TypeScript, OpenAI API, Vercel | Painel de pontualidade com dados da Olist. O chat usa os filtros do painel e abre os pedidos que sustentam a resposta. |
+| [Revez](https://asccjr.github.io/portfolio/revez/) | Slack, Make, Google Sheets, IA generativa | Piloto de revisão, ajuste e aprovação de entregas no Slack. O teste com duas contas confirmou que só a pessoa vinculada à tarefa recebe seus detalhes. |
+| [Monitor de Vagas](https://asccjr.github.io/portfolio/monitor-de-vagas/) | Make, Greenhouse API, Google Sheets, Gmail, IA generativa | Triagem automática de vagas públicas e resumo por e-mail. Separei o texto de cada trilha para evitar a mistura de requisitos e validei a extração em três anúncios reais. |
 | [EvidentGraph](https://evidentgraph.github.io/evidence-graph/caso-stripe/) | FastAPI, SQLite, OpenTelemetry, OpenAPI | API de laboratório com dois contratos. Testei quais clientes simulados falhavam quando um campo era removido da resposta. |
 
 ## Analytics Engineering & BI
 
 | Projeto | Stack | Entrega |
 |---|---|---|
-| Indicadores de SLA de atendimento | Power BI, Freshservice | Indicadores de primeira resposta e resolução que permitiram à gestão avaliar o cumprimento dos SLAs por prestadores terceirizados. |
-| Validação de indicadores operacionais | SQL, dbt, Power BI | Investiguei divergências entre relatórios, corrigi regras de cálculo e validei os resultados com a liderança e a TI do cliente. |
+| Painel de SLAs de atendimento | Freshservice, Power BI, SQL, dbt | Indicadores de primeira resposta e resolução para a gestão avaliar o cumprimento de SLAs por prestadores terceirizados. As divergências de cálculo foram corrigidas em SQL e dbt e os resultados foram validados com a liderança e a TI do cliente. |
 
 ## Data Engineering
 
@@ -34,9 +34,10 @@
 
 | Projeto | Stack | Entrega |
 |---|---|---|
+| [Antecipação de alertas críticos em frota de mineração](https://asccjr.github.io/portfolio/programa-desenvolver-vale/) | Python, Databricks, LightGBM | **1º lugar em Análise Avançada de Dados no Programa Desenvolver 2026 da Vale.** Pipeline de machine learning para estimar o risco de alertas críticos em frota de mineração em uma janela de até quatro horas. |
 | [One Bank — Churn Prediction](https://github.com/ASCCJR/One_Bank_Churn_Prediction) | scikit-learn, XGBoost, SHAP, SMOTE | Comparação de três modelos de churn com validação cruzada, ajuste do limiar de decisão e simulação de retorno financeiro. |
 | [Online Retail Analytics](https://github.com/ASCCJR/Online_Retail_EDA) | Python, pandas, seaborn, statsmodels | Análise exploratória de varejo com segmentação RFM, investigação de anomalias financeiras e análise de sazonalidade. |
-| [Análise exploratória com IA](https://asccjr.github.io/portfolio/analise-com-jupytext/) | Python, Matplotlib, Jupytext, Claude | O mesmo código gera o gráfico para revisão no notebook e uma descrição textual com os mesmos valores para o Claude consultar. |
+| [Análise exploratória com Jupytext](https://asccjr.github.io/portfolio/analise-com-jupytext/) | Python, Matplotlib, Jupytext, Claude | O mesmo código gera o gráfico para revisão no notebook e uma descrição textual com os mesmos valores para o Claude consultar. |
 
 ## AI Engineering
 
