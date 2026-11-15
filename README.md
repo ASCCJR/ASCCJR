@@ -1,4 +1,9 @@
-[Portfólio](https://asccjr.github.io/portfolio/) · [Currículo](https://asccjr.github.io/) · [LinkedIn](https://www.linkedin.com/in/asccjr/) · [Hugging Face](https://huggingface.co/asccjr)
+<p align="center">
+  <a href="https://asccjr.github.io/portfolio/"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-1c1d2f?style=for-the-badge"></a>
+  <a href="https://asccjr.github.io/"><img alt="Currículo" src="https://img.shields.io/badge/Curr%C3%ADculo-1c1d2f?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/asccjr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-1c1d2f?style=for-the-badge"></a>
+  <a href="https://huggingface.co/asccjr"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-1c1d2f?style=for-the-badge"></a>
+</p>
 
 ## AI Builder & Forward Deployed Engineering (FDE)
 
@@ -37,4 +42,6 @@
 | [Caderno de Visão Computacional](https://github.com/ASCCJR/caderno-visao-computacional) | YOLO11, OpenCV, CLIP, PyTorch, Gradio | Aplicação que processa vídeo para gerar indicadores de varejo, como fluxo de pessoas e ocupação. [Demo](https://huggingface.co/spaces/asccjr/cv-playground) |
 | [Chatbot NLP — E-commerce](https://github.com/ASCCJR/Chatbot_NLP) | NLTK, scikit-learn, BERT, Gradio | Pipeline de classificação de intenções, reconhecimento de entidades, busca em FAQ e análise de sentimento. [Demo](https://huggingface.co/spaces/asccjr/Chatbot_NLP) |
 
-[![Embedded Systems & IoT](https://img.shields.io/badge/Embedded%20Systems%20%26%20IoT-1c1d2f?style=for-the-badge)](./embedded-systems-iot.md)
+<p align="center">
+  <a href="./embedded-systems-iot.md"><img alt="Embedded Systems &amp; IoT" src="https://img.shields.io/badge/Embedded%20Systems%20%26%20IoT-1c1d2f?style=for-the-badge"></a>
+</p>
