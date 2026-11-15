@@ -35,7 +35,7 @@
 
 | Projeto | Stack | Entrega |
 |---|---|---|
-| [Antecipação de alertas críticos em frota de mineração](https://asccjr.github.io/portfolio/programa-desenvolver-vale/) | Python, Databricks, LightGBM | **1º lugar em Análise Avançada de Dados no Programa Desenvolver 2026 da Vale.** Pipeline de machine learning para estimar o risco de alertas críticos em frota de mineração em uma janela de até quatro horas. |
+| [Antecipação de alertas críticos em frota de mineração](https://asccjr.github.io/portfolio/programa-desenvolver-vale/)<br><br>[Ver premiação](https://asccjr.github.io/portfolio/programa-desenvolver-vale/#premiacao) | Python, Databricks, LightGBM | **1º lugar em Análise Avançada de Dados no Programa Desenvolver 2026 da Vale.** Pipeline de machine learning para estimar o risco de alertas críticos em frota de mineração em uma janela de até quatro horas. |
 | [One Bank — Churn Prediction](https://github.com/ASCCJR/One_Bank_Churn_Prediction) | scikit-learn, XGBoost, SHAP, SMOTE | Comparação de três modelos de churn com validação cruzada, ajuste do limiar de decisão e simulação de retorno financeiro. |
 | [Online Retail Analytics](https://github.com/ASCCJR/Online_Retail_EDA) | Python, pandas, seaborn, statsmodels | Análise exploratória de varejo com segmentação RFM, investigação de anomalias financeiras e análise de sazonalidade. |
 | [Análise exploratória com Jupytext](https://asccjr.github.io/portfolio/analise-com-jupytext/) | Python, Matplotlib, Jupytext, Claude | O mesmo código gera o gráfico para revisão no notebook e uma descrição textual com os mesmos valores para o Claude consultar. |
