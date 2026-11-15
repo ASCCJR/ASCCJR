@@ -13,10 +13,10 @@
 
 | Projeto | Stack | Entrega |
 |---|---|---|
-| [Copiloto de Entregas](https://github.com/ASCCJR/copiloto-de-entregas)<br><br>[Link demo](https://portfolio-antonio-sergio.vercel.app/copiloto) | Next.js, TypeScript, OpenAI API, Vercel | Painel de pontualidade com dados da Olist. O chat usa os filtros do painel e abre os pedidos que sustentam a resposta. |
-| [Revez](https://asccjr.github.io/portfolio/revez/) | Slack, Make, Google Sheets, IA generativa | Piloto de revisão, ajuste e aprovação de entregas no Slack. O teste com duas contas confirmou que só a pessoa vinculada à tarefa recebe seus detalhes. |
-| [Monitor de Vagas](https://asccjr.github.io/portfolio/monitor-de-vagas/) | Make, Greenhouse API, Google Sheets, Gmail, IA generativa | Triagem automática de vagas públicas e resumo por e-mail. Separei o texto de cada trilha para evitar a mistura de requisitos e validei a extração em três anúncios reais. |
-| [EvidentGraph](https://evidentgraph.github.io/evidence-graph/caso-stripe/) | FastAPI, SQLite, OpenTelemetry, OpenAPI | API de laboratório com dois contratos. Testei quais clientes simulados falhavam quando um campo era removido da resposta. |
+| [Copiloto de Entregas](https://github.com/ASCCJR/copiloto-de-entregas)<br><br>[Link demo](https://portfolio-antonio-sergio.vercel.app/copiloto) | Next.js, TypeScript, OpenAI API, Vercel | Painel com dados da Olist para comparar a pontualidade por estado e mês e priorizar a investigação onde os atrasos se concentram. O chat abre os pedidos que sustentam a resposta. |
+| [Revez](https://asccjr.github.io/portfolio/revez/) | Slack, Make, Google Sheets, IA generativa | Piloto no Slack que mostra em que etapa está cada entrega, qual versão está em revisão e quem precisa agir. A equipe sabe com quem tratar uma pendência, e o acesso aos detalhes fica restrito às pessoas autorizadas. |
+| [Monitor de Vagas](https://asccjr.github.io/portfolio/monitor-de-vagas/) | Make, Greenhouse API, Google Sheets, Gmail, IA generativa | Resumo por e-mail com os requisitos de cada trilha para ajudar a identificar vagas compatíveis e priorizar candidaturas. A extração por trilha foi validada em anúncios reais. |
+| [EvidentGraph](https://evidentgraph.github.io/evidence-graph/caso-stripe/) | FastAPI, SQLite, OpenTelemetry, OpenAPI | Compara versões de um contrato de API e mostra quais integrações podem ser afetadas por campos alterados, orientando os testes antes da migração. O caso Stripe usa consumidores simulados. |
 
 ## Analytics Engineering & BI
 
