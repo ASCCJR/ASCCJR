@@ -22,7 +22,7 @@
 
 | Projeto | Stack | Entrega |
 |---|---|---|
-| Painel de SLAs de atendimento | Freshservice, Power BI, SQL, dbt | Indicadores de primeira resposta e resolução para a gestão avaliar o cumprimento de SLAs por prestadores terceirizados. As divergências de cálculo foram corrigidas em SQL e dbt e os resultados foram validados com a liderança e a TI do cliente. |
+| [Painel de SLAs de atendimento](https://asccjr.github.io/portfolio/painel-de-slas/) | Freshservice, Power BI, SQL, dbt, Figma (mockups) | Indicadores de primeira resposta e resolução para a gestão avaliar o cumprimento de SLAs por prestadores terceirizados. As divergências de cálculo foram corrigidas em SQL e dbt e os resultados foram validados com a liderança e a TI do cliente. |
 
 ## Data Engineering
 
