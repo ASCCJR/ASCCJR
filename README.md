@@ -22,7 +22,7 @@
 
 | Projeto | Stack | Entrega |
 |---|---|---|
-| [Painel de SLAs de atendimento](https://asccjr.github.io/portfolio/painel-de-slas/) | Freshservice, Power BI, SQL, dbt, Figma (mockups) | Indicadores de primeira resposta e resolução para a gestão avaliar o cumprimento de SLAs por prestadores terceirizados. As divergências de cálculo foram corrigidas em SQL e dbt e os resultados foram validados com a liderança e a TI do cliente. |
+| [Painel de SLAs de atendimento](https://asccjr.github.io/portfolio/painel-de-slas/) | Freshservice, Power BI, SQL, dbt Core, Databricks, Figma (mockups) | Painel desenvolvido na Indicium para a gestão avaliar prazos contratuais de primeira resposta e resolução. As visões Ticket Support e Details mostram como acompanhar os SLAs mês a mês e consultar os chamados que explicam os indicadores. |
 
 ## Data Engineering
 
