@@ -5,6 +5,10 @@
   <a href="https://huggingface.co/asccjr"><img alt="Hugging Face" src="./assets/badges/hugging-face-compact.svg" height="28" width="144"></a>
 </p>
 
+<p align="center">
+  <a href="./embedded-systems-iot.md"><img alt="Embedded Systems &amp; IoT" src="./assets/badges/iot-compact.svg" height="28" width="239"></a>
+</p>
+
 ## AI Builder & Forward Deployed Engineering (FDE)
 
 | Projeto | Stack | Entrega |
@@ -41,9 +45,5 @@
 | [Sentimento em Foco](https://github.com/ASCCJR/sentiment-analysis-mlops) | Python, MLflow, FastAPI, Gradio | Comparação de três modelos de sentimento com registro de métricas e predições, API de inferência em lote e interface bilíngue. |
 | [Caderno de Visão Computacional](https://github.com/ASCCJR/caderno-visao-computacional) | YOLO11, OpenCV, CLIP, PyTorch, Gradio | Aplicação que processa vídeo para gerar indicadores de varejo, como fluxo de pessoas e ocupação. [Demo](https://huggingface.co/spaces/asccjr/cv-playground) |
 | [Chatbot NLP — E-commerce](https://github.com/ASCCJR/Chatbot_NLP) | NLTK, scikit-learn, BERT, Gradio | Pipeline de classificação de intenções, reconhecimento de entidades, busca em FAQ e análise de sentimento. [Demo](https://huggingface.co/spaces/asccjr/Chatbot_NLP) |
-
-<p align="center">
-  <a href="./embedded-systems-iot.md"><img alt="Embedded Systems &amp; IoT" src="./assets/badges/iot-compact.svg" height="28" width="239"></a>
-</p>
 
 <!-- Badges renderizados pelo Shields.io. Ícones: Lucide (assets/badges/LICENSE-Lucide.txt) e Simple Icons (LinkedIn 11.15.0 e Hugging Face). -->
