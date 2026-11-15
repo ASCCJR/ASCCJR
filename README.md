@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://asccjr.github.io/portfolio/"><img alt="Portfólio" src="./assets/badges/portfolio.svg" height="28" width="102"></a>
-  <a href="https://asccjr.github.io/"><img alt="Currículo" src="./assets/badges/curriculo.svg" height="28" width="108"></a>
-  <a href="https://www.linkedin.com/in/asccjr/"><img alt="LinkedIn" src="./assets/badges/linkedin.svg" height="28" width="105"></a>
-  <a href="https://huggingface.co/asccjr"><img alt="Hugging Face" src="./assets/badges/hugging-face.svg" height="28" width="144"></a>
+  <a href="https://asccjr.github.io/portfolio/"><img alt="Portfólio" src="./assets/badges/portfolio.svg"></a>
+  <a href="https://asccjr.github.io/"><img alt="Currículo" src="./assets/badges/curriculo.svg"></a>
+  <a href="https://www.linkedin.com/in/asccjr/"><img alt="LinkedIn" src="./assets/badges/linkedin.svg"></a>
+  <a href="https://huggingface.co/asccjr"><img alt="Hugging Face" src="./assets/badges/hugging-face.svg"></a>
 </p>
 
 ## AI Builder & Forward Deployed Engineering (FDE)
@@ -43,7 +43,7 @@
 | [Chatbot NLP — E-commerce](https://github.com/ASCCJR/Chatbot_NLP) | NLTK, scikit-learn, BERT, Gradio | Pipeline de classificação de intenções, reconhecimento de entidades, busca em FAQ e análise de sentimento. [Demo](https://huggingface.co/spaces/asccjr/Chatbot_NLP) |
 
 <p align="center">
-  <a href="./embedded-systems-iot.md"><img alt="Embedded Systems &amp; IoT" src="./assets/badges/iot.svg" height="28" width="239"></a>
+  <a href="./embedded-systems-iot.md"><img alt="Embedded Systems &amp; IoT" src="./assets/badges/iot.svg"></a>
 </p>
 
 <!-- Badges renderizados pelo Shields.io. Ícones: Lucide (assets/badges/LICENSE-Lucide.txt) e Simple Icons (LinkedIn 11.15.0 e Hugging Face). -->
