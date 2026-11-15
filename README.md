@@ -13,7 +13,7 @@
 
 | Projeto | Stack | Entrega |
 |---|---|---|
-| [Copiloto de Entregas](https://github.com/ASCCJR/copiloto-de-entregas)<br><br>[link demo](https://portfolio-antonio-sergio.vercel.app/copiloto) | Next.js, TypeScript, OpenAI API, Vercel | Painel de pontualidade com dados da Olist. O chat usa os filtros do painel e abre os pedidos que sustentam a resposta. |
+| [Copiloto de Entregas](https://github.com/ASCCJR/copiloto-de-entregas)<br><br>[Link demo](https://portfolio-antonio-sergio.vercel.app/copiloto) | Next.js, TypeScript, OpenAI API, Vercel | Painel de pontualidade com dados da Olist. O chat usa os filtros do painel e abre os pedidos que sustentam a resposta. |
 | [Revez](https://asccjr.github.io/portfolio/revez/) | Slack, Make, Google Sheets, IA generativa | Piloto de revisão, ajuste e aprovação de entregas no Slack. O teste com duas contas confirmou que só a pessoa vinculada à tarefa recebe seus detalhes. |
 | [Monitor de Vagas](https://asccjr.github.io/portfolio/monitor-de-vagas/) | Make, Greenhouse API, Google Sheets, Gmail, IA generativa | Triagem automática de vagas públicas e resumo por e-mail. Separei o texto de cada trilha para evitar a mistura de requisitos e validei a extração em três anúncios reais. |
 | [EvidentGraph](https://evidentgraph.github.io/evidence-graph/caso-stripe/) | FastAPI, SQLite, OpenTelemetry, OpenAPI | API de laboratório com dois contratos. Testei quais clientes simulados falhavam quando um campo era removido da resposta. |
