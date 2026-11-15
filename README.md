@@ -29,7 +29,7 @@
 
 | Projeto | Stack | Entrega |
 |---|---|---|
-| [LH Nautical](https://github.com/ASCCJR/Indicium_LH_Nautical) | Databricks, PySpark, Delta Lake, Streamlit, API do Banco Central | Teste técnico que levou à aprovação na turma 2026.5 do programa de trainee Lighthouse da Indicium. O pipeline Bronze, Silver e Gold integrou vendas e câmbio PTAX e revelou margem de −5,3% no cenário do desafio. |
+| [LH Nautical](https://github.com/ASCCJR/Indicium_LH_Nautical)<br><br>[Relatório executivo](https://asccjr.github.io/portfolio/lh-nautical/) · [Link demo](https://lh-nautical-dashboard.streamlit.app/) | Databricks, PySpark, Delta Lake, Streamlit, API do Banco Central | Teste técnico que levou à aprovação na turma 2026.5 do programa de trainee Lighthouse da Indicium. O pipeline Bronze, Silver e Gold integrou vendas e câmbio PTAX e revelou margem de −5,3% no cenário do desafio. |
 
 ## Data Science
 
