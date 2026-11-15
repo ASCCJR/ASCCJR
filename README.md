@@ -23,6 +23,7 @@
 | Projeto | Stack | Entrega |
 |---|---|---|
 | [Painel de SLAs de atendimento](https://asccjr.github.io/portfolio/painel-de-slas/) | Freshservice, Power BI, SQL, dbt Core, Databricks, Figma (mockups) | Painel desenvolvido na Indicium para a gestão avaliar prazos contratuais de primeira resposta e resolução. As visões Ticket Support e Details mostram como acompanhar os SLAs mês a mês e consultar os chamados que explicam os indicadores. |
+| [Central de Operações de Manutenção](https://asccjr.github.io/portfolio/central-operacoes/) | API Fracttal, Power Query, DAX, Power BI, Figma (mockup) | Painel desenvolvido na etapa prática do EmbarcaTech em uma empresa do setor de energia para acompanhar centenas de ordens de serviço por mês. Reúne backlog, tempo médio de atendimento e cumprimento de SLA, com recortes que ajudam a identificar onde priorizar as pendências. |
 
 ## Data Engineering
 
